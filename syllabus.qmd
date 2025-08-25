@@ -87,7 +87,7 @@ Everything except PCQs will be graded on the following scale:
 - R: revise or retake -- this is an answer that applies the concepts incorrectly, misunderstands the point of the question, does not complete the question, fails to follow directions, and/or contains significant mathematical errors
 - N: not assessable -- if you turn nothing in, you will receive an N. You will also receive an N if your work is illegible, too minimal to assess, or irrelevant.
 
-E and M are considered passing grades. To get an A or B in this class, you must achieve some Es (see the [grading scheme](#gradingscheme))
+E and M are considered passing grades. To get an A in this class, you must achieve some Es (see the [grading scheme](#gradingscheme))
 
 R and N are considered failing grades. Only Rs can be revised or retaken.
 
