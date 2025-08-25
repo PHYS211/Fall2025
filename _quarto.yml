@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "WebsitePHYS211F25"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
