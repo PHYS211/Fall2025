@@ -1,5 +1,5 @@
 ---
-title: "PHY 211 Fall 2024"
+title: "PHY 211 Fall 2025"
 format: 
   html:
     link-external-newwindow: true
