@@ -162,7 +162,7 @@ The student becomes the teacher... you will have an opportunity to write a physi
 -   write up a detailed solution to that problem using the [four-step problem solving method](coursecontent.qmd#fourstepmethod)
 -   explain how your problem tests understanding for the concepts you selected
 
-These are graded on an [E/M/R/N scale](#emrn), and you may use each problem project score to replace one of the following:
+This are graded on an [E/M/R/N scale](#emrn), and you may use your problem project score to replace one of the following:
 
 - your PCQ score for the semester (an M or higher gives you full credit on the PCQs)
 - two (2) WHW scores
@@ -170,11 +170,11 @@ These are graded on an [E/M/R/N scale](#emrn), and you may use each problem proj
 - one (1) unit summary score
 - one (1) community engagement grade
 
-I will always replace the grade item that most benefits you, and will never replace a better score with a worse one. The Problem Project can only help you.
+I will always replace the grade item that most benefits you, and will never replace a better score with a worse one. The problem project can only help you.
 
-You may request extensions on the problem projects using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6). Please note, however, that the final problem project cannot be extended beyond the end of final exam period.
+You may request an extension on the problem project using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6). Please note, however, that the problem project cannot be extended beyond the end of final exam period.
 
-Please note that the Problem Project cannot be revised, given the time constraints. I am always happy to talk through drafts in office hours before you turn it in.
+Please note that the problem project cannot be revised, given the time constraints. I am always happy to talk through drafts in office hours before you turn it in.
 :::
 
 ### Grading boosts
