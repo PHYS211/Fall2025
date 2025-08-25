@@ -56,21 +56,6 @@ Assignments fall into "bundles," which contribute to your grade in specific ways
 
 Beyond that, you can achieve grade boosts, which round your grade up, e.g. from a B to a B+, or a B+ to an A-.
 
-You can learn more about each bundle below:
-
-[PCQs](#pcqs)
-
-[WHWs](#whws)
-
-[Unit Tests](#tests)
-
-[Group Unit Summaries](#summaries)
-
-[Community Engagement](#communityengagement)
-
-[Wild Card: Problem Project](#problemproject)
-
-
 ### Grading Scheme {#gradingscheme}
 
 ### Table of letter grades
@@ -130,7 +115,7 @@ You may work with classmates on the homework, but please be sure to give credit.
 You may request extensions on the WHWs using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6).
 
 
-#### Group unit summaries {#portfolio}
+#### Group unit summaries {#unitsummaries}
 
 This assignment is meant to help you organize what you’ve learned, reinforce problem-solving strategies, and create a resource you can use for studying later.
 
