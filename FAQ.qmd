@@ -15,23 +15,22 @@ editor: source
 ## When and where is class?
 
 -   When: Monday, Wednesday, and Friday, 2:40PM-4:00PM
--   Where: Carnegie 225
+-   Where: Dana 204
 
 ## Where do I get my textbook?
 
-The textbook for this class is "An Introduction to Mechanics, 2nd edition" by Kleppner & Kolenkow (Cambridge University Press). The library should have copies available, but you can also purchase it at the Bates bookstore.
+The textbook for this class is "Introduction to Classical Mechanics" by David Morin (Cambridge University Press). The library should have copies available, but you can also purchase it at the Bates bookstore.
 
 To find the library copies, go to [librarysearch.bates.edu](librarysearch.bates.edu) and search for the course number or my name. Write down the book's call number and ask for it at the library.
 
-![](images/KandK.jpg){width=200}
+![](images/Morin.jpg){width=200}
 
 ## When are your office hours? {#officehours}
 
-Office hours:
+Office hours: I will schedule office hours for the semester after the first week of class. You can also make a one-on-one meeting in calendly (see Lyceum for the scheuling link)
 
--   Mondays 11AM-12PM in my research space
--   Wednesdays 4PM-5PM (right after class) in Carnegie 339
--   Thursdays 1:30PM-2:30PM in my research space
+Scheduled office hours:
+-   TBD
 
 If you schedule a one-on-one meeting, it will be in my office. The location of my office and my research space are both in Lyceum.
 
@@ -41,19 +40,19 @@ Office hours are my open hours, when I have specifically set aside time to talk 
 
 ## Where do I find assignment instructions/course handouts/slides? {#findstuff}
 
-I created this website to make the syllabus and basic questions about the course easy, but not everything will be here. Handouts, in-class activities, specific assignments, and class slides and/or recordings will all be in the course page on Lyceum.
+I created this website to make the syllabus and basic questions about the course easy, but not everything will be here. Handouts, in-class activities, specific assignments, and class notes will all be in the course page on Lyceum.
 
 If you are enrolled in the class but do not have access to Lyceum, please let me know immediately so I can add you.
 
 ## When is \_\_ due? {#duedates}
 
-You can find all due dates on the [course schedule](https://docs.google.com/spreadsheets/d/1Oa5DOrJSYn9FjScxstXVl5GqbK4QU8z5TM0DqPHljqs/edit?usp=sharing). Dates are subject to change, but will always be kept up to date on the schedule so check back if you're not sure.
+You can find all due dates on the [course schedule](https://docs.google.com/spreadsheets/d/1Kc-CtZYLF3HwOKw7-evwPCMCf3C1m3t2AZBAinf3KL8/edit?usp=sharing). Dates are subject to change, but will always be kept up to date on the schedule so check back if you're not sure.
 
 ## Can I have an extension? {#extensionpolicy}
 
 In general, I am happy to work with you on deadlines, but it's important for you to communicate with me. You can request extensions using [this form](https://forms.gle/zwnNC37WGg4fV3ZN8). 
 
-Please note that the 48 hour extension is automatically granted, while anything longer than that requires that we have a conversation. That conversation starts by you proposing a new deadline in the form, and then I can talk to you about what's possible or reasonable given the course schedule, your circumstances, and other factors that may vary as the semester progresses.
+Please note that the 48 hour extension is automatically granted for eligible assignments, while anything longer than that requires that we have a conversation. That conversation starts by you proposing a new deadline in the form, and then I can talk to you about what's possible or reasonable given the course schedule, your circumstances, and other factors that may vary as the semester progresses.
 
 Some assignments cannot be extended, and you can learn more about that by reading more about the [specific assignments](syllabus.qmd#assignments).
 
@@ -61,18 +60,18 @@ For more on my deadlines and extension policy, see the [syllabus](syllabus.qmd#d
 
 ## Can I re-do something I did poorly on? {#revisionpolicy}
 
-You can re-take the unit tests, but the rest of the assignments can only be submitted once.
+Unit tests, group unit summaries, and homeworks can all be revised (or retaken, in the case of the tests) once. Community engagement grades and PCQs/exit slips can't be re-done, but I do look for consistent improvement and take that into account with the growth round-up. I also am happy to talk to you about these grades if there are extenuating circumstances. If you think this applies to you, schedule a one-on-one meeting with me on calendly and we can talk about what is possible and reasonable.
 
 ## When will you reply to my email? {#emails}
 
 Timely communication is really important, but in order to be an effective instructor and a well-adjusted human, I also need to be able to take breaks from email.
 
-If you email me on a weekday, you can expect a response from me within 24 hours. If you email me on a weekend or a holiday, you can expect a response from me by class time on the first day back.
+If you email me on a weekday, you can expect a response from me within 48 hours. If you email me on a weekend or a holiday, you can expect a response from me by class time on the first day back.
 
 
 ## Do you grade on a curve? {#gradingcurve}
 
-Grades are not curved; your grade depends only on your own performance. Supporting your fellow students will help every one of you, and I hope you will work together on homeworks and study together for tests.
+Grades are not curved; your grade depends only on your own performance. Supporting your fellow students will help every one of you, and I hope you will work together!
 
 
 ## Can I use ChatGPT in this class? {#ChatGPT}
@@ -81,7 +80,7 @@ Large Language Models (LLMs) are likely here to stay. Banning them from the clas
 
 1.    That you do a little reading on Large Language Models. Specifically, read [this article about how LLMs actually work](https://stackoverflow.blog/2023/07/03/do-large-language-models-know-what-they-are-talking-about/) and [this article about the ethical considerations around LLMs](https://montrealethics.ai/what-lies-behind-agi-ethical-concerns-related-to-llms/)
 
-2.    That you consider ChatGPT a source that you must cite. If you use ChatGPT or another LLM to help with any assignment, you **must** acknowledge that help and give a short (one-sentence) description of what the LLM did for you and how it helped you solve the problem.
+2.    That you consider ChatGPT - or any other LLM -a source that you must cite. If you an LLM to help with any assignment, you **must** acknowledge that help and give a short (one-sentence) description of what the LLM did for you and how it helped you solve the problem.
 
 Remember that LLMs are designed to predict the most probable response to a question, which is not always the best or even correct response. They are prone to "hallucinating" (making stuff up, often in a way that is convincing but still false). They can't do creative problem solving, which is the most important skill we are teaching in this class.
 

@@ -11,13 +11,13 @@ format:
 editor: source
 ---
 
-# The Four-Step Problem Solving Method {#fourstepmethod}
+# Four-Step Problem Solving Method {#fourstepmethod}
 
-1. Determine what key concepts will help you solve the problem
+1. Draw a diagram
 
-2. Gather your information -- draw a picture, choose a coordinate system, identify "givens" in the problem statement (which are allowed to be in your answer), and determine your goal (what quantity you are solving for and any special conditions for it)
+2. Gather your information -- choose a coordinate system, identify "knowns" in the problem statement (which are allowed to be in your answer), list "unknowns" which must be solved for or eliminated, and determine your goal (what quantity you are solving for and any special conditions for it)
 
-3. Solve: find appropriate equations (hint: your key concepts will help a lot here), and use those equations and math tools to eliminate all unknowns and lead to your answer.
+3. Solve symbolically: list key concepts that may guide your problem solving, find appropriate equations for solving problems using those key concepts, and use those equations and math tools to eliminate all unknowns and lead to your answer. Do not plug in numbers.
 
 4. Assess your answer. Check units and use some logical reasoning to defend your answer (or explain why it's wrong). Some methods you could use for the reasoning includes making predictions and seeing if your result matches those predictions, relating the answer to something you know (e.g. plugging in specific numbers and checking if they match real-world scenarios), and evaluating the equation (check limits and special cases, make sure it does what you expect)
 
@@ -32,6 +32,7 @@ Special types of kinematics:
 
   - Expressing position, velocity, and acceleration in polar coordinates
   - Constant speed, fixed length, and constant acceleration motion 
+  - Oscillations and periodic motion
 
 ## Forces
 
@@ -91,6 +92,14 @@ Conservation of angular momentum
 
 
 :::
+
+# The Euler-Lagrange Equations {#eulerlagrange}
+
+The Euler–Lagrange equations help us find how a system moves. They come from the idea that nature chooses the path that makes the "action" (a quantity built from kinetic and potential energy) as small as possible. Instead of focusing directly on forces, these equations let us work with energy and generalized coordinates, which often makes solving problems—especially with constraints—much simpler.
+
+All the equations we will use this semester arise from the Euler-Lagrange equations, from energy conservation to Newton's second law to conservation of momentum.
+
+To use them, you have to construct the Lagrangian (L = T -V), determine the proper coordinates to use (i.e. what coordinates will you use to describe your problem and your solution?), and then plug them into the Euler-Lagrange equation, which involves taking derivatives of the Lagrangian with respect to the coordinates you've chosen. After simplifying the results, you will have the equations of motion for the system.
 
 # Math Tools {#mathtools}
 
