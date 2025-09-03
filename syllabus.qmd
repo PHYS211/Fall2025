@@ -106,7 +106,7 @@ Given the purpose of the PCQs, I will not offer extensions, except in case of a 
 
 #### WHWs {#whws}
 
-Regular problem-solving is very important to developing confidence and skill in this content, so every week you will have a weekly problem set. You will turn in the weekly problem set by scanning and uploading as a PDF to Moodle. These are due by 8PM each Wednesday.
+Regular problem-solving is very important to developing confidence and skill in this content, so every week you will have a weekly problem set. You will turn in the weekly problem set by scanning and uploading as a PDF to Lyceum These are due by 8PM each Wednesday.
 
 These are graded on an EMRN scale, and you can revise any homework that receives an R grade once. You may not revise the same homework twice, and E, M, and N grades cannot be revised.
 
@@ -201,6 +201,8 @@ If you demonstrate consistent improvement in your work across the semester, I re
 
 ## Deadlines and Extensions {#deadlines}
 If you need an extension, you may request one using [this form](https://forms.gle/eFx7y7FoSdoukKGC6). I recognize that things come up and you may require flexibility at some point in the semester. Please feel free to reach out to me directly if you are struggling to meet a deadline. I want to support you and make sure you have the best possible chance for success in this class, and the only way I can help is if you communicate with me.
+
+You can request as many 48 hour extensions as you need and it will not affect your grade (short of making you ineligible for the time management round-up). You may not string together multiple extensions on the same assignment, so try to determine before you request 48 hours whether you think you will need more time.
 
 In general, I am happy to be flexible. Please note, however, that some assignments will have stricter deadlines. These assignments include the PCQs and the final portfolio and final problem project, and the nature of the deadlines is discussed in their descriptions above.
 
