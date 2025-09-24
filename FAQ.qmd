@@ -15,7 +15,7 @@ editor: source
 ## When and where is class?
 
 -   When: Monday, Wednesday, and Friday, 2:40PM-4:00PM
--   Where: Dana 204
+-   Where: See the course Lyceum for the classroom information
 
 ## Where do I get my textbook?
 
@@ -27,12 +27,12 @@ To find the library copies, go to [librarysearch.bates.edu](librarysearch.bates.
 
 ## When are your office hours? {#officehours}
 
-Office hours: I will schedule office hours for the semester after the first week of class. You can also make a one-on-one meeting in calendly (see Lyceum for the scheuling link)
+Office hours: 
 
-Scheduled office hours:
--   TBD
+-   Tuesdays 1:30-2:30PM
+-   Wednesdays 4PM-5PM
 
-If you schedule a one-on-one meeting, it will be in my office. The location of my office and my research space are both in Lyceum.
+You can also make a one-on-one meeting in calendly (see Lyceum for the scheduling link). If you schedule a one-on-one meeting, it will be in my office. The location of my office and the classroom for office hours are both in Lyceum.
 
 ## Should I go to office hours? {#goingtoofficehours}
 
