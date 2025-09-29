@@ -140,7 +140,7 @@ Each unit summary is graded on an [E/M/R/N scale](#emrn), and an E and M are bot
 Your team may request an extension on the unit summary using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6). Only one member of the team needs to submit the extension request.
 
 #### Unit tests {#tests}
-There will be three unit tests during class throughout this semester. The tests are cumulative, but they will largely focus on the more recent material. These tests will occur in class, and you may bring a single-sided 8.5"x11" sheet of paper with equations and notes - hand-written (please speak to me if you need to type the sheet and we will come up with a plan). This paper will be turned in with your test.
+There will be three unit tests during class throughout this semester. The tests are cumulative, but they will largely focus on the more recent material. These tests will occur in class, and you may bring your team's unit summary to the test. The unit summary will be turned in with your test.
 
 These are graded on an [E/M/R/N scale](#emrn), and you may retake each unit test during the scheduled make-up test days. In order to retake a unit test, you must first correct your first unit test and complete a short reflection in a [Google form](https://forms.gle/8FukQwiTmBmq5azs6).
 
